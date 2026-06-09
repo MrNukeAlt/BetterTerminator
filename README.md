@@ -1,3 +1,4 @@
+[![Buy me a Banana](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20Banana&emoji=%F0%9F%8D%8C&slug=nukeman999&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/nukeman999)
 # Bloons Terminator
 
 Bloons Terminator is a utility suite designed to interact with the *Ninja Kiwi Archive* version of Bloons TD Battles. The project consists of two primary components: a graphical HUD overlay and a backend game client that enables automation, command-line chat interactions, and hotkey support.
